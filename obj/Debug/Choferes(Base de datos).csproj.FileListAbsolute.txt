@@ -1,0 +1,22 @@
+C:\Users\Hector Sosa\source\repos\Choferes(Base de datos)\bin\Debug\Choferes(Base de datos).exe.config
+C:\Users\Hector Sosa\source\repos\Choferes(Base de datos)\bin\Debug\Choferes(Base de datos).exe
+C:\Users\Hector Sosa\source\repos\Choferes(Base de datos)\bin\Debug\Choferes(Base de datos).pdb
+C:\Users\Hector Sosa\source\repos\Choferes(Base de datos)\bin\Debug\Bunifu_UI_v1.52.dll
+C:\Users\Hector Sosa\source\repos\Choferes(Base de datos)\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\Hector Sosa\source\repos\Choferes(Base de datos)\bin\Debug\System.Security.AccessControl.dll
+C:\Users\Hector Sosa\source\repos\Choferes(Base de datos)\bin\Debug\System.Security.Permissions.dll
+C:\Users\Hector Sosa\source\repos\Choferes(Base de datos)\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\Hector Sosa\source\repos\Choferes(Base de datos)\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\Hector Sosa\source\repos\Choferes(Base de datos)\bin\Debug\System.Security.AccessControl.xml
+C:\Users\Hector Sosa\source\repos\Choferes(Base de datos)\bin\Debug\System.Security.Permissions.xml
+C:\Users\Hector Sosa\source\repos\Choferes(Base de datos)\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\Hector Sosa\source\repos\Choferes(Base de datos)\obj\Debug\Choferes(Base de datos).csprojAssemblyReference.cache
+C:\Users\Hector Sosa\source\repos\Choferes(Base de datos)\obj\Debug\Choferes_Base_de_datos_.Choferes.resources
+C:\Users\Hector Sosa\source\repos\Choferes(Base de datos)\obj\Debug\Choferes_Base_de_datos_.Autobuses.resources
+C:\Users\Hector Sosa\source\repos\Choferes(Base de datos)\obj\Debug\Choferes_Base_de_datos_.Properties.Resources.resources
+C:\Users\Hector Sosa\source\repos\Choferes(Base de datos)\obj\Debug\Choferes_Base_de_datos_.Rutas.resources
+C:\Users\Hector Sosa\source\repos\Choferes(Base de datos)\obj\Debug\Choferes(Base de datos).csproj.GenerateResource.cache
+C:\Users\Hector Sosa\source\repos\Choferes(Base de datos)\obj\Debug\Choferes(Base de datos).csproj.CopyComplete
+C:\Users\Hector Sosa\source\repos\Choferes(Base de datos)\obj\Debug\Choferes(Base de datos).exe
+C:\Users\Hector Sosa\source\repos\Choferes(Base de datos)\obj\Debug\Choferes(Base de datos).pdb
+C:\Users\Hector Sosa\source\repos\Choferes(Base de datos)\obj\Debug\Choferes_Base_de_datos_.Viajes.resources
